@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
     "jruby-poi.gemspec",
     "lib/ooxml-lib/dom4j-1.6.1.jar",
     "lib/ooxml-lib/stax-api-1.0.1.jar",
-    "lib/ooxml-lib/xmlbeans-2.3.0.jar",
+    "lib/ooxml-lib/xmlbeans-2.6.0.jar",
     "lib/poi-3.10.1-20140818.jar",
     "lib/poi-examples-3.10.1-20140818.jar",
     "lib/poi-excelant-3.10.1-20140818.jar",
